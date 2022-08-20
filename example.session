@@ -1,0 +1,3 @@
+launch --title "Remote-Desktop" zsh
+new_tab
+launch --title "MacOS" zsh
